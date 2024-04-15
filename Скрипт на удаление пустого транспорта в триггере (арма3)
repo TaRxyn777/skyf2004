@@ -1,0 +1,15 @@
+// Задаем радиус и центр триггера (предположим, что триггер уже создан и называется deleteVehiclesTrigger)
+_radius = 20;
+_center = getPos deleteVehiclesTrigger;
+
+// Получаем список всех транспортных средств в радиусе триггера
+_vehicles = nearestObjects [_center, ["Car", "Tank", "Air", "Ship"], _radius];
+
+// Проходимся по каждому транспортному средству
+{
+    // Проверяем, пустое ли транспортное средство (не содержит игрока или бота)
+    if (count (crew _x) == 0) then {
+        deleteVehicle _x; // Удаляем пустое транспортное средство
+        systemChat format ["Транспортное средство %1 удалено.", typeOf _x]; // Выводим сообщение в чат
+    };
+} forEach _vehicles;
