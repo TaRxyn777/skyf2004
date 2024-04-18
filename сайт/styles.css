@@ -1,0 +1,249 @@
+.a{
+position: relative;
+top: -750px;
+left: 570px;
+font-family: Inter, sans-serif;
+font-size: 120px;
+color: white;
+        }
+.s{
+position: relative;
+top: -900px;
+left: 730px;
+font-family: Inter, sans-serif;
+font-size: 120px;
+color: white;
+}
+.d{
+position: relative;
+top: -1000px;
+left: 700px;
+font-family: Inter, sans-serif;
+font-size: 20px;
+color: white;
+filter: brightness(75%);
+letter-spacing: 5px;"
+}
+.z{
+top: -780px;
+left: 850px;
+width: 1890px;
+height: 900px;
+background-image: none;
+        }
+.q{
+position: relative;
+top: -850px;
+left: 850px;
+background-color: black;
+border: 1px solid #000000;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+ transition: all 0.2s ease-in-out;
+}
+.b{
+position: relative;
+border: 3px solid black;
+background-color: black;
+width: 1884px;
+height: 100px;
+top: -830px;
+background-image: none;
+}
+.w{
+position: relative;
+top: -750px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+ z-index: 999;
+}
+.e{
+position: relative;
+top: -750px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+ z-index: 999;
+}
+.r{
+position: relative;
+top: -750px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+ z-index: 999;
+}
+.t{
+position: relative;
+top: -750px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+ z-index: 999;
+}
+.y{
+position: relative;
+top: -750px;
+left: -40px;
+background-color: black;
+border: 1px solid black;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+ z-index: 999;
+}
+.n{
+position: relative;
+top: 170px;
+left: 250px;
+width: 340px;
+height: 340px;
+ z-index: 999;
+}
+.u{
+position: relative;
+font-family: Inter, sans-serif;
+font-size: 30px;
+top: -140px;
+left: 840px;
+color: black;
+ z-index: 999;
+}
+.i{
+    position: relative;
+font-family: Inter, sans-serif;
+font-size: 15px;
+top: -160px;
+left: 840px;
+color: black;
+ z-index: 999;
+}
+.o{
+    position: relative;
+font-family: Inter, sans-serif;
+font-size: 15px;
+top: -150px;
+left: 840px;
+color: black;
+ z-index: 999;
+}
+.p{
+    position: relative;
+font-family: Inter, sans-serif;
+font-size: 15px;
+top: -135px;
+left: 840px;
+color: black;
+ z-index: 999;
+}
+.m{
+top: -780px;
+left: 850px;
+width: 1890px;
+height: 900px;
+background-image: none;
+}
+.l{
+position: relative;
+font-family: Inter, sans-serif;
+font-size: 30px;
+top: -560px;
+left: 1440px;
+color: white;
+ z-index: 999;
+}
+.k{
+position: relative;
+font-family: Inter, sans-serif;
+font-size: 17px;
+top: -560px;
+left: 1440px;
+color: white;
+ z-index: 999;
+}
+.j{
+position: relative;
+top: -560px;
+left: 1440px;
+background-color: black;
+border: 1px solid #000000;
+color: white;
+padding: 16px 32px;
+font-size: 16px;
+font-weight: bold;
+}
+.g{
+position: relative;
+border: 3px solid black;
+background-color: black;
+width: 1884px;
+height: 150px;
+top: -330px;
+background-image: none;
+}
+.f{
+color: white;
+position: relative;
+top: 45px;
+left: 100px;
+}
+/* Добавление анимации нажатия кнопок */
+.j {
+  transition: all 0.2s ease-in-out;
+}
+
+.j:active {
+  /* Изменение стиля кнопки при нажатии */
+  background-color: #333;
+  transform: scale(0.98);
+}
+.q:active {
+  /* Изменение стиля кнопки при нажатии */
+  background-color: #333;
+  transform: scale(0.98);
+}
+.w:active {
+  /* Изменение стиля кнопки при нажатии */
+  background-color: #333;
+  transform: scale(0.98);
+}
+.e:active {
+  /* Изменение стиля кнопки при нажатии */
+  background-color: #333;
+  transform: scale(0.98);
+}
+.r:active {
+  /* Изменение стиля кнопки при нажатии */
+  background-color: #333;
+  transform: scale(0.98);
+}
+.t:active {
+  /* Изменение стиля кнопки при нажатии */
+  background-color: #333;
+  transform: scale(0.98);
+}
+.y:active {
+  /* Изменение стиля кнопки при нажатии */
+  background-color: #333;
+  transform: scale(0.98);
+}
